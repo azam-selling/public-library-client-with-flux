@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Coding Fundamentals",
+    "genre": "Computer programming",
+    "author": "Jon Stokes",
+    "expectedDate": "28/06/2021"
+  },
+  {
+    "title": "Design Patterns",
+    "genre": "Computer programming",
+    "author": "Erich Gamma",
+    "expectedDate": "1/07/2021"
+  },
+  {
+    "title": "Clean Code",
+    "genre": "Computer programming",
+    "author": "Robert Cecil Martin",
+    "expectedDate": "4/07/2021"
+  }
+]

@@ -1,1 +1,4 @@
-# public-library-client-with-flux
+# PublicLibrary
+Demo project using REACT and NODE
+
+This is main Client component.

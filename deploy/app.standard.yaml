@@ -1,0 +1,13 @@
+runtime: nodejs14
+service: frontend
+instance_class: F4_1G
+handlers:
+  - url: /
+    static_files: build/index.html
+    upload: build/index.html
+    expiration: 1s
+
+  - url: /(.*)
+    static_files: build/\1
+    upload: build/(.*)
+    expiration: 1s
